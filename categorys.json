@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "name": "appertizer"
+  },
+  {
+    "key": 2,
+    "name": "firerice"
+  },
+  {
+    "key": 3,
+    "name": "soup"
+  },
+  {
+    "key": 4,
+    "name": "chiken"
+  },
+  {
+    "key": 5,
+    "name": "beef"
+  },
+  {
+    "key": 6,
+    "name": "shrimp"
+  },
+  {
+    "key": 7,
+    "name": "lunch"
+  },
+  {
+    "key": 8,
+    "name": "combo"
+  }
+]
