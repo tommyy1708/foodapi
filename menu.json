@@ -117,37 +117,37 @@
     "key": 20,
     "name": "Vegetable Fried Rice",
     "prices": 6.25,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 21,
     "name": "Chicken Fried Rice",
     "prices": 6.25,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 22,
     "name": "Pork Fried Rice",
     "prices": 6.25,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 23,
     "name": "Beef Fried Rice",
     "prices": 6.949999809265137,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 24,
     "name": "Shrimp Fried Rice",
     "prices": 6.949999809265137,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 25,
     "name": "House Special Fried Rice",
     "prices": 6.949999809265137,
-    "category": "firerice"
+    "category": "friedrice"
   },
   {
     "key": 26,
