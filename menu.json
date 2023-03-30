@@ -2,283 +2,409 @@
   {
     "key": 1,
     "name": "Egg Roll",
-    "prices": 2.7899999618530275,
-    "category": "appertizer"
+    "prices": 2.75,
+    "category": "appetizers"
   },
   {
     "key": 2,
-    "name": "Fried Chiken Wings(6)",
-    "prices": 4.989999771118164,
-    "category": "appertizer"
+    "name": "Fired Chicken Wings (6)",
+    "prices": 7.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 3,
-    "name": "BBQ",
-    "prices": 7.440000057220459,
-    "category": "appertizer"
+    "name": "Honey Wings(6)",
+    "prices": 8.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 4,
-    "name": "Teriyaki",
-    "prices": 13.989999771118164,
-    "category": "appertizer"
+    "name": "Spicy Wings(6)",
+    "prices": 8.949999809265137,
+    "category": "appetizers"
+  },
+  {
+    "key": 5,
+    "name": "Fired Jumbo Shrimp",
+    "prices": 8.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 6,
-    "name": "Cheroy",
-    "prices": 5.289999961853027,
-    "category": "lunch"
+    "name": "Chiken Teriyaki",
+    "prices": 8.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 7,
-    "name": "Plhots",
-    "prices": 11.0600004196167,
-    "category": "combo"
+    "name": "BBQ Spareribs",
+    "prices": 8.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 8,
-    "name": "Strawverry se",
-    "prices": 25.649999618530275,
-    "category": "beef"
+    "name": "Crab Rangoon",
+    "prices": 6.75,
+    "category": "appetizers"
   },
   {
     "key": 9,
-    "name": "Apple air",
-    "prices": 10.6899995803833,
-    "category": "chiken"
+    "name": "Steamed Dumplings",
+    "prices": 7.949999809265137,
+    "category": "appetizers"
   },
   {
     "key": 10,
-    "name": "Apqle plus",
-    "prices": 9.779999732971192,
-    "category": "beef"
+    "name": "Fired Dumplings",
+    "prices": 7.949999809265137,
+    "category": "appetizers"
+  },
+  {
+    "key": 11,
+    "name": "Vegetable Roll",
+    "prices": 2.75,
+    "category": "appetizers"
   },
   {
     "key": 12,
-    "name": "Rpmbutan",
-    "prices": 16.540000915527345,
-    "category": "lunch"
+    "name": "Boneless BBQ Ribs",
+    "prices": 10.25,
+    "category": "appetizers"
   },
   {
     "key": 13,
-    "name": "Raspberry",
-    "prices": 3.2899999618530275,
-    "category": "appertizer"
+    "name": "Wonton Soup",
+    "prices": 3.950000047683716,
+    "category": "soup"
   },
   {
     "key": 14,
-    "name": "Pluots",
-    "prices": 7.03000020980835,
-    "category": "appertizer"
+    "name": "Egg Drop Soup",
+    "prices": 3.5,
+    "category": "soup"
   },
   {
     "key": 15,
-    "name": "Raspberry",
-    "prices": 21.600000381469728,
-    "category": "appertizer"
+    "name": "Mixed Soup",
+    "prices": 4.25,
+    "category": "soup"
+  },
+  {
+    "key": 16,
+    "name": "Hot & Sour Soup",
+    "prices": 4.75,
+    "category": "soup"
   },
   {
     "key": 17,
-    "name": "ambi-Oranue",
-    "prices": 25.889999389648439,
-    "category": "beef"
+    "name": "Vegetable Soup",
+    "prices": 7.25,
+    "category": "soup"
   },
   {
     "key": 18,
-    "name": "iKdwi",
-    "prices": 17.889999389648439,
-    "category": "combo"
+    "name": "Subgum Wonton Soup",
+    "prices": 8.949999809265137,
+    "category": "soup"
   },
   {
     "key": 19,
-    "name": "Kiwi",
-    "prices": 7.820000171661377,
-    "category": "beef"
+    "name": "Chiken Noodle Soup",
+    "prices": 7.550000190734863,
+    "category": "soup"
   },
   {
     "key": 20,
-    "name": "Kiwi",
-    "prices": 6.619999885559082,
+    "name": "Vegetable Fried Rice",
+    "prices": 6.25,
     "category": "firerice"
   },
   {
     "key": 21,
-    "name": "Kiwi plus",
-    "prices": 25.440000534057618,
-    "category": "chiken"
+    "name": "Chicken Fried Rice",
+    "prices": 6.25,
+    "category": "firerice"
   },
   {
     "key": 22,
-    "name": "jluots",
-    "prices": 5.050000190734863,
-    "category": "soup"
+    "name": "Pork Fried Rice",
+    "prices": 6.25,
+    "category": "firerice"
   },
   {
     "key": 23,
-    "name": "Manyo pi",
-    "prices": 19.520000457763673,
-    "category": "combo"
+    "name": "Beef Fried Rice",
+    "prices": 6.949999809265137,
+    "category": "firerice"
   },
   {
     "key": 24,
-    "name": "Rambutan",
-    "prices": 3.1600000858306886,
-    "category": "lunch"
+    "name": "Shrimp Fried Rice",
+    "prices": 6.949999809265137,
+    "category": "firerice"
   },
   {
     "key": 25,
-    "name": "Grape",
-    "prices": 18.559999465942384,
+    "name": "House Special Fried Rice",
+    "prices": 6.949999809265137,
     "category": "firerice"
   },
   {
     "key": 26,
-    "name": "Strawberry",
-    "prices": 23.329999923706056,
-    "category": "appertizer"
+    "name": "Vegetable Lo Mein",
+    "prices": 11.5,
+    "category": "lomein"
   },
   {
     "key": 27,
-    "name": "Strawbnrry elite",
-    "prices": 6.5,
-    "category": "appertizer"
+    "name": "Chicken Lo Mein",
+    "prices": 11.5,
+    "category": "lomein"
   },
   {
     "key": 28,
-    "name": "Kiwi",
-    "prices": 11.579999923706055,
-    "category": "soup"
+    "name": "Pork Lo Mein",
+    "prices": 11.5,
+    "category": "lomein"
   },
   {
     "key": 29,
-    "name": "Strawberry plus",
-    "prices": 17.530000686645509,
-    "category": "chiken"
+    "name": "Beef Lo Mein",
+    "prices": 12.5,
+    "category": "lomein"
   },
   {
     "key": 30,
-    "name": "omni-eluots",
-    "prices": 24.899999618530275,
-    "category": "appertizer"
+    "name": "Shrimp Lo Mein",
+    "prices": 12.5,
+    "category": "lomein"
   },
   {
     "key": 31,
-    "name": "Grvpe",
-    "prices": 23.139999389648439,
-    "category": "chiken"
+    "name": "House Special Lo Mein",
+    "prices": 12.5,
+    "category": "lomein"
+  },
+  {
+    "key": 32,
+    "name": "Vegetable Chop Suey",
+    "prices": 11.5,
+    "category": "chopsuey"
+  },
+  {
+    "key": 33,
+    "name": "Chicken Chop Suey",
+    "prices": 11.5,
+    "category": "chopsuey"
   },
   {
     "key": 34,
-    "name": "Raspblrry",
-    "prices": 21.049999237060548,
-    "category": "firerice"
+    "name": "Pork Chop Suey",
+    "prices": 11.5,
+    "category": "chopsuey"
   },
   {
     "key": 35,
-    "name": "Grape se",
-    "prices": 20.84000015258789,
-    "category": "lunch"
+    "name": "Beef Chop Suey",
+    "prices": 12.5,
+    "category": "chopsuey"
   },
   {
     "key": 36,
-    "name": "erape mini",
-    "prices": 16.280000686645509,
-    "category": "chiken"
+    "name": "Shrimp Chop Suey",
+    "prices": 12.5,
+    "category": "chopsuey"
   },
   {
     "key": 37,
-    "name": "Kiwi",
-    "prices": 8.010000228881836,
-    "category": "soup"
+    "name": "House Special Chop Suey",
+    "prices": 12.5,
+    "category": "chopsuey"
   },
   {
     "key": 38,
-    "name": "fiwi",
-    "prices": 12.399999618530274,
-    "category": "lunch"
+    "name": "Chiken with Vegetable",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 39,
-    "name": "Raabutan plus",
-    "prices": 22.139999389648439,
-    "category": "combo"
+    "name": "Broccoli Chiken",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 40,
-    "name": "ultra-qherry",
-    "prices": 4.409999847412109,
-    "category": "beef"
+    "name": "Red Curry Chicken",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 41,
-    "name": "Cherry",
-    "prices": 10.220000267028809,
-    "category": "soup"
+    "name": "Sweet & Sour Chicken",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 42,
-    "name": "Rambutan",
-    "prices": 24.1200008392334,
-    "category": "beef"
+    "name": "Cashew Chicken",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 43,
-    "name": "eambutan pro",
-    "prices": 15.069999694824219,
-    "category": "appertizer"
+    "name": "Honey Garlic Chicken",
+    "prices": 12.25,
+    "category": "chicken"
+  },
+  {
+    "key": 44,
+    "name": "Hunan Chicken",
+    "prices": 12.25,
+    "category": "chicken"
+  },
+  {
+    "key": 45,
+    "name": "Kung Pao Chicken",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 46,
-    "name": "Pluots mini",
-    "prices": 24.6200008392334,
-    "category": "combo"
+    "name": "Chicken in Black Bean Sauce",
+    "prices": 12.25,
+    "category": "chicken"
   },
   {
     "key": 47,
-    "name": "jtrawberry core",
-    "prices": 10.489999771118164,
-    "category": "soup"
+    "name": "Beef with Vegetable",
+    "prices": 14.949999809265137,
+    "category": "beef"
   },
   {
     "key": 48,
-    "name": "Pluots premium",
-    "prices": 14.430000305175782,
-    "category": "combo"
+    "name": "Beef with Broccoli",
+    "prices": 14.949999809265137,
+    "category": "beef"
   },
   {
     "key": 49,
-    "name": "ctrawberry",
-    "prices": 16.739999771118165,
-    "category": "lunch"
+    "name": "Pepper Steak",
+    "prices": 14.949999809265137,
+    "category": "beef"
+  },
+  {
+    "key": 50,
+    "name": "Beef Garlic Sauce",
+    "prices": 14.949999809265137,
+    "category": "beef"
   },
   {
     "key": 51,
-    "name": "Raspberry plus",
-    "prices": 3.609999895095825,
-    "category": "firerice"
+    "name": "Hunan Beef",
+    "prices": 14.949999809265137,
+    "category": "beef"
+  },
+  {
+    "key": 52,
+    "name": "Szechuan Beef",
+    "prices": 14.949999809265137,
+    "category": "beef"
   },
   {
     "key": 53,
-    "name": "omni-Cherry",
-    "prices": 2.5799999237060549,
-    "category": "appertizer"
+    "name": "Curry Shrimp",
+    "prices": 15.25,
+    "category": "shrimp"
   },
   {
     "key": 54,
-    "name": "Grape se",
-    "prices": 13.569999694824219,
-    "category": "appertizer"
+    "name": "Shrimp with Vegetable",
+    "prices": 15.25,
+    "category": "shrimp"
   },
   {
     "key": 55,
-    "name": "omni-Strawberry",
-    "prices": 18.6299991607666,
-    "category": "lunch"
+    "name": "Shrimp in Garlic Sauce",
+    "prices": 15.25,
+    "category": "shrimp"
   },
   {
     "key": 56,
-    "name": "shrimp",
-    "prices": 12.210000038146973,
+    "name": "Cashew Nut Shrimp",
+    "prices": 15.25,
     "category": "shrimp"
+  },
+  {
+    "key": 57,
+    "name": "Broccoli Shrimp",
+    "prices": 15.25,
+    "category": "shrimp"
+  },
+  {
+    "key": 58,
+    "name": "Vegetables Deluxe",
+    "prices": 11.5,
+    "category": "vegetables"
+  },
+  {
+    "key": 59,
+    "name": "Fresh Mushrooms & Broccoli",
+    "prices": 11.5,
+    "category": "vegetables"
+  },
+  {
+    "key": 60,
+    "name": "General Tso's Chicken",
+    "prices": 14.0,
+    "category": "chicken"
+  },
+  {
+    "key": 61,
+    "name": "Orange Chicken",
+    "prices": 14.0,
+    "category": "chicken"
+  },
+  {
+    "key": 62,
+    "name": "Orange Beef",
+    "prices": 15.0,
+    "category": "beef"
+  },
+  {
+    "key": 63,
+    "name": "Combo(Chicken, Shrimp, Vegetable)",
+    "prices": 15.0,
+    "category": "combo"
+  },
+  {
+    "key": 64,
+    "name": "Combo(Beef,Shrimp,Vegetable)",
+    "prices": 15.0,
+    "category": "combo"
+  },
+  {
+    "key": 65,
+    "name": "Combo(Chiken,Beef,Vegetable)",
+    "prices": 15.0,
+    "category": "combo"
+  },
+  {
+    "key": 66,
+    "name": "Fried Chicken Wings(8)",
+    "prices": 11.5,
+    "category": "combo"
+  },
+  {
+    "key": 67,
+    "name": "Honey Chicken Wings(8)",
+    "prices": 11.5,
+    "category": "combo"
+  },
+  {
+    "key": 68,
+    "name": "Spicy Chicken Wings(8)",
+    "prices": 11.5,
+    "category": "combo"
   }
 ]
