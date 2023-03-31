@@ -8,37 +8,37 @@
   {
     "key": 2,
     "name": "Fired Chicken Wings (6)",
-    "prices": 7.949999809265137,
+    "prices": 7.5,
     "category": "appetizers"
   },
   {
     "key": 3,
     "name": "Honey Wings(6)",
-    "prices": 8.949999809265137,
+    "prices": 8.5,
     "category": "appetizers"
   },
   {
     "key": 4,
     "name": "Spicy Wings(6)",
-    "prices": 8.949999809265137,
+    "prices": 8.95,
     "category": "appetizers"
   },
   {
     "key": 5,
     "name": "Fired Jumbo Shrimp",
-    "prices": 8.949999809265137,
+    "prices": 8.95,
     "category": "appetizers"
   },
   {
     "key": 6,
     "name": "Chiken Teriyaki",
-    "prices": 8.949999809265137,
+    "prices": 8.95,
     "category": "appetizers"
   },
   {
     "key": 7,
     "name": "BBQ Spareribs",
-    "prices": 8.949999809265137,
+    "prices": 8.95,
     "category": "appetizers"
   },
   {
@@ -50,13 +50,13 @@
   {
     "key": 9,
     "name": "Steamed Dumplings",
-    "prices": 7.949999809265137,
+    "prices": 7.95,
     "category": "appetizers"
   },
   {
     "key": 10,
     "name": "Fired Dumplings",
-    "prices": 7.949999809265137,
+    "prices": 7.95,
     "category": "appetizers"
   },
   {
@@ -74,7 +74,7 @@
   {
     "key": 13,
     "name": "Wonton Soup",
-    "prices": 3.950000047683716,
+    "prices": 3.95,
     "category": "soup"
   },
   {
@@ -104,50 +104,50 @@
   {
     "key": 18,
     "name": "Subgum Wonton Soup",
-    "prices": 8.949999809265137,
+    "prices": 8.95,
     "category": "soup"
   },
   {
     "key": 19,
     "name": "Chiken Noodle Soup",
-    "prices": 7.550000190734863,
+    "prices": 7.55,
     "category": "soup"
   },
   {
     "key": 20,
-    "name": "Vegetable Fried Rice",
+    "name": "Pt Vegetable Fried Rice",
     "prices": 6.25,
-    "category": "friedrice"
+    "category": "firerice"
   },
   {
     "key": 21,
-    "name": "Chicken Fried Rice",
+    "name": "Pt Chicken Fried Rice",
     "prices": 6.25,
-    "category": "friedrice"
+    "category": "firerice"
   },
   {
     "key": 22,
-    "name": "Pork Fried Rice",
+    "name": "Pt Pork Fried Rice",
     "prices": 6.25,
-    "category": "friedrice"
+    "category": "firerice"
   },
   {
     "key": 23,
-    "name": "Beef Fried Rice",
-    "prices": 6.949999809265137,
-    "category": "friedrice"
+    "name": "Pt Beef Fried Rice",
+    "prices": 6.95,
+    "category": "firerice"
   },
   {
     "key": 24,
-    "name": "Shrimp Fried Rice",
-    "prices": 6.949999809265137,
-    "category": "friedrice"
+    "name": "Pt Shrimp Fried Rice",
+    "prices": 6.95,
+    "category": "firerice"
   },
   {
     "key": 25,
-    "name": "House Special Fried Rice",
-    "prices": 6.949999809265137,
-    "category": "friedrice"
+    "name": "Pt House Special Fried Rice",
+    "prices": 6.95,
+    "category": "firerice"
   },
   {
     "key": 26,
@@ -278,37 +278,37 @@
   {
     "key": 47,
     "name": "Beef with Vegetable",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
     "key": 48,
     "name": "Beef with Broccoli",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
     "key": 49,
     "name": "Pepper Steak",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
     "key": 50,
     "name": "Beef Garlic Sauce",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
     "key": 51,
     "name": "Hunan Beef",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
     "key": 52,
     "name": "Szechuan Beef",
-    "prices": 14.949999809265137,
+    "prices": 14.95,
     "category": "beef"
   },
   {
@@ -406,5 +406,41 @@
     "name": "Spicy Chicken Wings(8)",
     "prices": 11.5,
     "category": "combo"
+  },
+  {
+    "key": 69,
+    "name": "Qt House Special Fried Rice",
+    "prices": 11.25,
+    "category": "frierice"
+  },
+  {
+    "key": 70,
+    "name": "Qt Chicken Fried Rice",
+    "prices": 10.0,
+    "category": "frierice"
+  },
+  {
+    "key": 71,
+    "name": "Qt Pork Fried Rice",
+    "prices": 10.0,
+    "category": "frierice"
+  },
+  {
+    "key": 72,
+    "name": "Qt Beef Fried Rice",
+    "prices": 11.25,
+    "category": "firerice"
+  },
+  {
+    "key": 73,
+    "name": "Qt Shrimp Fried Rice",
+    "prices": 11.25,
+    "category": "firerice"
+  },
+  {
+    "key": 74,
+    "name": "Qt Vegetable Fried Rice",
+    "prices": 10.0,
+    "category": "firerice"
   }
 ]
