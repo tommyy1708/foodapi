@@ -442,5 +442,11 @@
     "name": "Qt Vegetable Fried Rice",
     "prices": 10.0,
     "category": "firerice"
+  },
+  {
+    "key":75,
+    "name": "Gen To's Chiken",
+    "prices": 9.95,
+    "category":"lunch"
   }
 ]
